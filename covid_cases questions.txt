@@ -1,0 +1,10 @@
+Q1. Get the dates where daily confirmed cases are greater than 1500.
+Q2. Get the dates where daily recovered cases are greater than 1500.
+Q3. Get the average monthly daily confirmed cases.
+Q4. Get the average monthly daily deceased cases.
+Q5. Get the average monthly Total active cases.
+Q6. Are there any outliers in the data? How would you process outliers?
+Q7. Plot the daily confirmed cases as a trend line (time series).
+Q8. Plot the daily active cases as a trend line (time series).
+Q9. Plot Stacked barchart of confirmed, recovered, deceased cases for last 30 days.
+Q10. Plot Stacked barchart of monthly Average confirmed, recovered, deceased cases.
